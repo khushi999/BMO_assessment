@@ -1,0 +1,351 @@
+field,error,message
+transaction.completingActions.beneficiaries.details.relationshipOfConductorOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.details.relationshipOfConductorOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.buildingNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.city,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.district,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.postalZipCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.postalZipCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.address.provinceStateCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.streetAddress,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.subProvinceSubLocality,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.unitNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.address.unstructured,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.extensionNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.identifications.identifierTypeOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.identifications.identifierTypeOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.identifications.jurisdictionOfIssueProvinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.identifications.jurisdictionOfIssueProvinceStateCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.identifications.jurisdictionOfIssueProvinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.nameOfEntity,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.nameOfEntity,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.registrationIncorporationIndicator,Missing or empty field,Field is mandatory.
+transaction.completingActions.beneficiaries.entityDetails.registrationIncorporationIndicator,Missing or empty field,"The value entered for this field is inaccurate, based on the value shown in one or more other fields."
+transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateName,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.number,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.typeCode,Missing or empty field,Field is mandatory.
+transaction.completingActions.beneficiaries.personDetails.address.buildingNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.city,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.district,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.postalZipCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.postalZipCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.personDetails.address.provinceStateCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.personDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.streetAddress,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.subProvinceSubLocality,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.unitNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.address.unstructured,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.extensionNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.givenName,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.personDetails.givenName,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.personDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.personDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.personDetails.identifications.identifierTypeOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.personDetails.identifications.identifierTypeOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.personDetails.identifications.jurisdictionOfIssueProvinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.identifications.jurisdictionOfIssueProvinceStateCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.personDetails.identifications.jurisdictionOfIssueProvinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.identifications.number,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.beneficiaries.personDetails.surname,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.personDetails.surname,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.completingActions.beneficiaries.typeCode,Missing or empty field,Field is mandatory.
+transaction.completingActions.details.account.branchNumber,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.account.branchNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.account.currencyCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.account.currencyCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.account.dateOpened,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.account.financialInstitutionNumber,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.account.financialInstitutionNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.account.holders.entityName.nameOfEntity,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.account.holders.personName.givenName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.account.holders.personName.otherNameInitial,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.account.holders.personName.surname,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.account.holders.typeCode,Missing or empty field,Field is mandatory.
+transaction.completingActions.details.account.number,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.account.number,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.account.typeCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.account.typeCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.account.typeOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.account.typeOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.amount,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.amount,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.amount,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.currencyCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.currencyCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.dispositionCode,Missing or empty field,Field is mandatory.
+transaction.completingActions.details.dispositionOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.dispositionOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.involvementIndicator,Missing or empty field,Field is mandatory.
+transaction.completingActions.details.involvementIndicator,Missing or empty field,"The value entered for this field is inaccurate, based on the value shown in one or more other fields."
+transaction.completingActions.details.valueInCanadianDollars,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.valueInCanadianDollars,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.valueInCanadianDollars,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.virtualCurrencyTypeCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.virtualCurrencyTypeCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.details.virtualCurrencyTypeOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.completingActions.details.virtualCurrencyTypeOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.involvements.details.accountNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.involvements.details.identifyingNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.involvements.details.policyNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.involvements.entityName.nameOfEntity,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.involvements.personName.givenName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.involvements.personName.otherNameInitial,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.involvements.personName.surname,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.completingActions.involvements.typeCode,Missing or empty field,Field is mandatory.
+transaction.largeCashTransactionDetails.dateTimeOfPosting,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.largeCashTransactionDetails.dateTimeOfTransaction,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.largeCashTransactionDetails.methodCode,Missing or empty field,Field is mandatory.
+transaction.largeCashTransactionDetails.methodOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.largeCashTransactionDetails.methodOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.largeCashTransactionDetails.reportingEntityTransactionReference,Missing or empty field,Field is mandatory.
+transaction.largeCashTransactionDetails.thresholdIndicator,Missing or empty field,Field is mandatory.
+transaction.reportingEntityLocationId,Missing or empty field,Field is mandatory.
+transaction.startingActions.conductors,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.details.onBehalfOfIndicator,Missing or empty field,Field is mandatory.
+transaction.startingActions.conductors.details.onBehalfOfIndicator,Missing or empty field,"The value entered for this field is inaccurate, based on the value shown in one or more other fields."
+transaction.startingActions.conductors.entityDetails.address.buildingNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.city,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.city,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.city,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.city,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.city,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.countryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.countryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.countryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.countryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.district,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.postalZipCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.postalZipCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.provinceStateCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.provinceStateCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.streetAddress,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.streetAddress,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.streetAddress,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.streetAddress,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.streetAddress,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.subProvinceSubLocality,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.unitNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.unstructured,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.address.unstructured,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.unstructured,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.address.unstructured,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.authorizedPersons.givenName,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.authorizedPersons.givenName,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.authorizedPersons.givenName,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.authorizedPersons.givenName,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.authorizedPersons.surname,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.authorizedPersons.surname,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.authorizedPersons.surname,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.authorizedPersons.surname,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.extensionNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.identifierTypeOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.identifierTypeOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.jurisdictionOfIssueProvinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.identifications.jurisdictionOfIssueProvinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.identifications.number,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.number,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.identifications.number,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.nameOfEntity,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.nameOfEntity,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.nameOfEntity,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.nameOfEntity,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.natureOfPrincipalBusiness,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.natureOfPrincipalBusiness,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.natureOfPrincipalBusiness,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.natureOfPrincipalBusiness,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.registrationIncorporationIndicator,Missing or empty field,Field is mandatory.
+transaction.startingActions.conductors.entityDetails.registrationIncorporationIndicator,Missing or empty field,"The value entered for this field is inaccurate, based on the value shown in one or more other fields."
+transaction.startingActions.conductors.entityDetails.registrationsIncorporations.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateName,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityDetails.registrationsIncorporations.number,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.registrationsIncorporations.number,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.registrationsIncorporations.number,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityDetails.registrationsIncorporations.typeCode,Missing or empty field,Field is mandatory.
+transaction.startingActions.conductors.entityName.nameOfEntity,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.entityName.nameOfEntity,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.entityName.nameOfEntity,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.details.relationshipOfConductorCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.details.relationshipOfConductorOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.details.relationshipOfConductorOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.buildingNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.city,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.city,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.countryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.district,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.postalZipCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.postalZipCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.provinceStateCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.streetAddress,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.streetAddress,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.subProvinceSubLocality,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.unitNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.unstructured,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.unstructured,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.extensionNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.identifierTypeCode,Missing or empty field,Field is mandatory.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.identifierTypeOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.identifierTypeOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.jurisdictionOfIssueProvinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.jurisdictionOfIssueProvinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.nameOfEntity,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.natureOfPrincipalBusiness,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationIncorporationIndicator,Missing or empty field,Field is mandatory.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationIncorporationIndicator,Missing or empty field,"The value entered for this field is inaccurate, based on the value shown in one or more other fields."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateName,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.number,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.typeCode,Missing or empty field,Field is mandatory.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.buildingNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.city,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.city,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.countryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.district,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.postalZipCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.postalZipCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.provinceStateCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.streetAddress,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.streetAddress,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.subProvinceSubLocality,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.unitNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.unstructured,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.address.unstructured,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.personDetails.extensionNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.givenName,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.identifierTypeCode,Missing or empty field,Field is mandatory.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.identifierTypeOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.identifierTypeOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.jurisdictionOfIssueProvinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.jurisdictionOfIssueProvinceStateCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.jurisdictionOfIssueProvinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.number,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.onBehalfOfs.personDetails.surname,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.onBehalfOfs.typeCode,Missing or empty field,Field is mandatory.
+transaction.startingActions.conductors.personDetails.address.buildingNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.city,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.city,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.city,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.city,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.city,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.countryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.countryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.countryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.countryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.district,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.postalZipCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.postalZipCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.provinceStateCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.provinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.provinceStateCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.provinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.streetAddress,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.streetAddress,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.streetAddress,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.streetAddress,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.streetAddress,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.subProvinceSubLocality,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.unitNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.unstructured,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.address.unstructured,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.unstructured,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.unstructured,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.address.unstructured,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.dateOfBirth,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.dateOfBirth,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.dateOfBirth,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.dateOfBirth,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.extensionNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.givenName,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.givenName,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.givenName,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.givenName,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.identifierTypeCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.identifierTypeOther,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.identifierTypeOther,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueCountryCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueProvinceStateCode,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueProvinceStateCode,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueProvinceStateName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.identifications.number,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.number,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personDetails.identifications.number,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.number,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.identifications.number,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.occupation,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.occupation,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.occupation,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.surname,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.surname,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.surname,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personDetails.surname,Missing or empty field,"This field was not completed, but may be required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personName.givenName,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personName.givenName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personName.givenName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personName.otherNameInitial,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personName.otherNameInitial,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personName.surname,Missing or empty field,"This field was not completed, but is required based on the value entered elsewhere in the report."
+transaction.startingActions.conductors.personName.surname,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.personName.surname,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.conductors.typeCode,Missing or empty field,Field is mandatory.
+transaction.startingActions.details.amount,Missing or empty field,Field is mandatory.
+transaction.startingActions.details.currencyCode,Missing or empty field,Field is mandatory.
+transaction.startingActions.details.depositToBusinessAccountIndicator,Missing or empty field,Field is mandatory.
+transaction.startingActions.details.sourceOfCashIndicator,Missing or empty field,Field is mandatory.
+transaction.startingActions.details.sourceOfCashIndicator,Missing or empty field,"The value entered for this field is inaccurate, based on the value shown in one or more other fields."
+transaction.startingActions.sourcesOfCash.details.accountNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.sourcesOfCash.details.identifyingNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.sourcesOfCash.details.policyNumber,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.sourcesOfCash.entityName.nameOfEntity,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.sourcesOfCash.personName.givenName,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.sourcesOfCash.personName.otherNameInitial,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.sourcesOfCash.personName.surname,Missing or empty field,This field is not required based on the value shown in one or more other fields.
+transaction.startingActions.sourcesOfCash.typeCode,Missing or empty field,Field is mandatory.

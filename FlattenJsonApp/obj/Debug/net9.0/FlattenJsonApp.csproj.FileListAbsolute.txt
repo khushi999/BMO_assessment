@@ -1,0 +1,17 @@
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\FlattenJsonApp.csproj.AssemblyReference.cache
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\FlattenJsonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\FlattenJsonApp.AssemblyInfoInputs.cache
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\FlattenJsonApp.AssemblyInfo.cs
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\FlattenJsonApp.csproj.CoreCompileInputs.cache
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\bin\Debug\net9.0\FlattenJsonApp.exe
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\bin\Debug\net9.0\FlattenJsonApp.deps.json
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\bin\Debug\net9.0\FlattenJsonApp.runtimeconfig.json
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\bin\Debug\net9.0\FlattenJsonApp.dll
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\bin\Debug\net9.0\FlattenJsonApp.pdb
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\FlattenJ.8608A41E.Up2Date
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\FlattenJsonApp.dll
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\refint\FlattenJsonApp.dll
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\FlattenJsonApp.pdb
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\FlattenJsonApp.genruntimeconfig.cache
+C:\Users\khush\OneDrive\Desktop\BMO_assessment\FlattenJsonApp\obj\Debug\net9.0\ref\FlattenJsonApp.dll

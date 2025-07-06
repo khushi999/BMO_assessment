@@ -1,0 +1,237 @@
+{
+  "reportDetails": {
+    "reportTypeCode": 106,
+    "submitTypeCode": 1,
+    "reportingEntityNumber": 1234567,
+    "submittingReportingEntityNumber": 1234567,
+    "reportingEntityReportReference": "LCTR-202303021052A001",
+    "twentyFourHourRule": {
+      "aggregationTypeCode": 2,
+      "periodStart": "2023-03-01T00:00:00-05:00",
+      "periodEnd": "2023-03-01T23:59:59-05:00"
+    },
+    "activitySectorCode": 2,
+    "reportingEntityContactId": 1122334
+  },
+  "definitions": [
+    {
+      "typeCode": 1,
+      "refId": "N-brown27",
+      "surname": "Brown",
+      "givenName": "Benny"
+    },
+    {
+      "typeCode": 2,
+      "refId": "101324N",
+      "nameOfEntity": "Happy Harmony Music Company"
+    },
+    {
+      "typeCode": 3,
+      "refId": "D-brown27",
+      "telephoneNumber": "6135559876",
+      "extensionNumber": "101",
+      "dateOfBirth": "1974-04-10",
+      "countryOfResidenceCode": "CA",
+      "identifications": [
+        {
+          "identifierTypeCode": 1,
+          "number": "P45568-49567-70307",
+          "jurisdictionOfIssueCountryCode": "CA",
+          "jurisdictionOfIssueProvinceStateCode": "ON"
+        }
+      ],
+      "surname": "Brown",
+      "givenName": "Benny",
+      "addressTypeCode": 1,
+      "address": {
+        "buildingNumber": "3",
+        "streetAddress": "Third Avenue",
+        "city": "Nepean",
+        "provinceStateCode": "ON",
+        "postalZipCode": "K1K1K1",
+        "countryCode": "CA",
+        "typeCode": 1
+      },
+      "occupation": "Manager",
+      "nameOfEmployer": "Greasy Spoon Diner"
+    },
+    {
+      "typeCode": 4,
+      "refId": "101324D",
+      "nameOfEntity": "Happy Harmony Music Company",
+      "addressTypeCode": 1,
+      "address": {
+        "unitNumber": "204",
+        "buildingNumber": "1",
+        "streetAddress": "First Street North",
+        "city": "Ottawa",
+        "provinceStateCode": "ON",
+        "postalZipCode": "H0H0H0",
+        "countryCode": "CA",
+        "typeCode": 1
+      },
+      "telephoneNumber": "6135551212",
+      "natureOfPrincipalBusiness": "Musical Instrument Sales",
+      "identifications": [
+        {
+          "identifierTypeCode": 1,
+          "number": "99887766554433",
+          "jurisdictionOfIssueCountryCode": "CA",
+          "jurisdictionOfIssueProvinceStateCode": "ON"
+        }
+      ],
+      "authorizedPersons": [
+        {
+          "surname": "Smith",
+          "givenName": "Wilber",
+          "otherNameInitial": "E"
+        }
+      ],
+      "registrationIncorporationIndicator": true,
+      "registrationsIncorporations": [
+        {
+          "typeCode": 1,
+          "number": "5966744399",
+          "jurisdictionOfIssueCountryCode": "CA",
+          "jurisdictionOfIssueProvinceStateCode": "ON"
+        }
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "reportingEntityLocationId": "1",
+      "largeCashTransactionDetails": {
+        "thresholdIndicator": false,
+        "reportingEntityTransactionReference": "TRANSACTION-A",
+        "dateTimeOfTransaction": "2023-03-01T11:00:54-05:00",
+        "methodCode": 1
+      },
+      "startingActions": [
+        {
+          "details": {
+            "amount": "5000",
+            "currencyCode": "CAD",
+            "sourceOfCashIndicator": false,
+            "depositToBusinessAccountIndicator": true
+          },
+          "sourcesOfCash": [],
+          "conductors": [
+            {
+              "typeCode": 1,
+              "refId": "N-brown27",
+              "details": {
+                "onBehalfOfIndicator": false
+              },
+              "onBehalfOfs": []
+            }
+          ]
+        }
+      ],
+      "completingActions": [
+        {
+          "details": {
+            "dispositionCode": 1,
+            "amount": "5000",
+            "currencyCode": "CAD",
+            "account": {
+              "financialInstitutionNumber": "111",
+              "branchNumber": "98765",
+              "number": "1029384",
+              "typeCode": 2,
+              "currencyCode": "CAD",
+              "dateOpened": "2019-01-20",
+              "holders": [
+                {
+                  "typeCode": 2,
+                  "refId": "101324N"
+                }
+              ]
+            },
+            "involvementIndicator": false
+          },
+          "involvements": [],
+          "beneficiaries": [
+            {
+              "typeCode": 4,
+              "refId": "101324D",
+              "details": {
+                "clientNumber": "1115133",
+                "emailAddress": "finance@happyharmonymusic.com",
+                "relationshipOfConductorCode": 14
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reportingEntityLocationId": "1",
+      "largeCashTransactionDetails": {
+        "thresholdIndicator": false,
+        "reportingEntityTransactionReference": "TRANSACTION-B",
+        "dateTimeOfTransaction": "2023-03-01T11:01:23-05:00",
+        "methodCode": 1
+      },
+      "startingActions": [
+        {
+          "details": {
+            "amount": "5000",
+            "currencyCode": "USD",
+            "sourceOfCashIndicator": false,
+            "depositToBusinessAccountIndicator": false
+          },
+          "sourcesOfCash": [],
+          "conductors": [
+            {
+              "typeCode": 3,
+              "refId": "D-brown27",
+              "details": {
+                "clientNumber": "22334455",
+                "emailAddress": "bennybrown8@yahoo.com",
+                "onBehalfOfIndicator": false
+              },
+              "onBehalfOfs": []
+            }
+          ]
+        }
+      ],
+      "completingActions": [
+        {
+          "details": {
+            "dispositionCode": 1,
+            "amount": "5000",
+            "currencyCode": "USD",
+            "account": {
+              "financialInstitutionNumber": "111",
+              "branchNumber": "98765",
+              "number": "5647382",
+              "typeCode": 1,
+              "currencyCode": "USD",
+              "dateOpened": "2003-07-12",
+              "holders": [
+                {
+                  "typeCode": 1,
+                  "refId": "N-brown27"
+                }
+              ]
+            },
+            "involvementIndicator": false
+          },
+          "involvements": [],
+          "beneficiaries": [
+            {
+              "typeCode": 3,
+              "refId": "D-brown27",
+              "details": {
+                "clientNumber": "22334455",
+                "emailAddress": "bennybrown8@yahoo.com",
+                "relationshipOfConductorCode": 15
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+Field Id,Field name,Number of Rules
+lctr.reportDetails.activitySectorCode,Activity sector,2
+lctr.reportDetails.ministerialDirectiveCode,Ministerial directive,4
+lctr.reportDetails.reportingEntityContactId,Contact identifier,3
+lctr.reportDetails.reportingEntityNumber,Reporting entity number,2
+lctr.reportDetails.reportingEntityReportReference,Reporting entity report reference,3
+lctr.reportDetails.submittingReportingEntityNumber,Submitting reporting entity number,2
+lctr.reportDetails.twentyFourHourRule.aggregationTypeCode,Aggregation type,5
+lctr.reportDetails.twentyFourHourRule.periodEnd,End of period,5
+lctr.reportDetails.twentyFourHourRule.periodStart,Start of period,4
+lctr.transaction.completingActions,Completing action list,1
+lctr.transaction.completingActions.beneficiaries.details.clientNumber,Client number,1
+lctr.transaction.completingActions.beneficiaries.details.emailAddress,Email address,1
+lctr.transaction.completingActions.beneficiaries.details.relationshipOfConductorCode,Relationship,2
+lctr.transaction.completingActions.beneficiaries.details.relationshipOfConductorOther,Relationship - other,3
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.buildingNumber,House/Building number,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.city,City,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.countryCode,Country,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.district,District,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.postalZipCode,Postal or zip code,4
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.provinceStateCode,Province or state code,5
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.provinceStateName,Province or state name,3
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.streetAddress,Street address,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.subProvinceSubLocality,Sub-province and/or sub-locality,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.unitNumber,Apt/Room/Suite/Unit number,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.address.unstructured,Unstructured address details,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.authorizedPersons,Authorized person list,1
+lctr.transaction.completingActions.beneficiaries.entityDetails.authorizedPersons.givenName,Given name,1
+lctr.transaction.completingActions.beneficiaries.entityDetails.authorizedPersons.otherNameInitial,Other name/initial,1
+lctr.transaction.completingActions.beneficiaries.entityDetails.authorizedPersons.surname,Surname,1
+lctr.transaction.completingActions.beneficiaries.entityDetails.extensionNumber,Extension,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.identifications.identifierTypeCode,Identification type,4
+lctr.transaction.completingActions.beneficiaries.entityDetails.identifications.identifierTypeOther,Identification type - other,3
+lctr.transaction.completingActions.beneficiaries.entityDetails.identifications.jurisdictionOfIssueCountryCode,Jurisdiction of issue (country),2
+lctr.transaction.completingActions.beneficiaries.entityDetails.identifications.jurisdictionOfIssueProvinceStateCode,Jurisdiction of issue (province or state) code,4
+lctr.transaction.completingActions.beneficiaries.entityDetails.identifications.jurisdictionOfIssueProvinceStateName,Jurisdiction of issue (province or state) name,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.identifications.number,Number associated with identification type,1
+lctr.transaction.completingActions.beneficiaries.entityDetails.nameOfEntity,Name of entity,3
+lctr.transaction.completingActions.beneficiaries.entityDetails.natureOfPrincipalBusiness,Nature of entity's principal business,1
+lctr.transaction.completingActions.beneficiaries.entityDetails.registrationIncorporationIndicator,Is the entity registered or incorporated?,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.jurisdictionOfIssueCountryCode,Jurisdiction of issue (country),3
+lctr.transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateCode,Jurisdiction of issue (province or state) code,4
+lctr.transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateName,Jurisdiction of issue (province or state) name,3
+lctr.transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.number,Registration or incorporation number,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.registrationsIncorporations.typeCode,Incorporated or registered?,2
+lctr.transaction.completingActions.beneficiaries.entityDetails.telephoneNumber,Telephone number,1
+lctr.transaction.completingActions.beneficiaries.personDetails.address.buildingNumber,House/Building number,2
+lctr.transaction.completingActions.beneficiaries.personDetails.address.city,City,2
+lctr.transaction.completingActions.beneficiaries.personDetails.address.countryCode,Country,2
+lctr.transaction.completingActions.beneficiaries.personDetails.address.district,District,2
+lctr.transaction.completingActions.beneficiaries.personDetails.address.postalZipCode,Postal or zip code,4
+lctr.transaction.completingActions.beneficiaries.personDetails.address.provinceStateCode,Province or state code,5
+lctr.transaction.completingActions.beneficiaries.personDetails.address.provinceStateName,Province or state name,3
+lctr.transaction.completingActions.beneficiaries.personDetails.address.streetAddress,Street address,2
+lctr.transaction.completingActions.beneficiaries.personDetails.address.subProvinceSubLocality,Sub-province and/or sub-locality,2
+lctr.transaction.completingActions.beneficiaries.personDetails.address.unitNumber,Apt/Room/Suite/Unit number,2
+lctr.transaction.completingActions.beneficiaries.personDetails.address.unstructured,Unstructured address details,2
+lctr.transaction.completingActions.beneficiaries.personDetails.alias,Alias,1
+lctr.transaction.completingActions.beneficiaries.personDetails.countryOfResidenceCode,Country of residence,2
+lctr.transaction.completingActions.beneficiaries.personDetails.dateOfBirth,Date of birth,3
+lctr.transaction.completingActions.beneficiaries.personDetails.extensionNumber,Extension,2
+lctr.transaction.completingActions.beneficiaries.personDetails.givenName,Given name,3
+lctr.transaction.completingActions.beneficiaries.personDetails.identifications.identifierTypeCode,Identification type,4
+lctr.transaction.completingActions.beneficiaries.personDetails.identifications.identifierTypeOther,Identification type - other,3
+lctr.transaction.completingActions.beneficiaries.personDetails.identifications.jurisdictionOfIssueCountryCode,Jurisdiction of issue (country),3
+lctr.transaction.completingActions.beneficiaries.personDetails.identifications.jurisdictionOfIssueProvinceStateCode,Jurisdiction of issue (province or state) code,4
+lctr.transaction.completingActions.beneficiaries.personDetails.identifications.jurisdictionOfIssueProvinceStateName,Jurisdiction of issue (province or state) name,2
+lctr.transaction.completingActions.beneficiaries.personDetails.identifications.number,Number associated with identification type,2
+lctr.transaction.completingActions.beneficiaries.personDetails.nameOfEmployer,Name of employer,1
+lctr.transaction.completingActions.beneficiaries.personDetails.occupation,Occupation,1
+lctr.transaction.completingActions.beneficiaries.personDetails.otherNameInitial,Other name/initial,1
+lctr.transaction.completingActions.beneficiaries.personDetails.surname,Surname,3
+lctr.transaction.completingActions.beneficiaries.personDetails.telephoneNumber,Telephone number,1
+lctr.transaction.completingActions.beneficiaries.personDetails.typeCode,Subject type,1
+lctr.transaction.completingActions.beneficiaries.typeCode,Subject type,2
+lctr.transaction.completingActions.details.account.branchNumber,Branch number,3
+lctr.transaction.completingActions.details.account.currencyCode,Currency type,4
+lctr.transaction.completingActions.details.account.dateOpened,Date account opened,3
+lctr.transaction.completingActions.details.account.financialInstitutionNumber,Financial institution number,3
+lctr.transaction.completingActions.details.account.holders,Account holder list,1
+lctr.transaction.completingActions.details.account.holders.entityName.nameOfEntity,Name of entity,2
+lctr.transaction.completingActions.details.account.holders.personName.givenName,Given name,2
+lctr.transaction.completingActions.details.account.holders.personName.otherNameInitial,Other name/initial,2
+lctr.transaction.completingActions.details.account.holders.personName.surname,Surname,2
+lctr.transaction.completingActions.details.account.holders.personName.typeCode,Subject type,1
+lctr.transaction.completingActions.details.account.holders.typeCode,Subject type,2
+lctr.transaction.completingActions.details.account.number,Account number,3
+lctr.transaction.completingActions.details.account.typeCode,Account type,4
+lctr.transaction.completingActions.details.account.typeOther,Account type - other,3
+lctr.transaction.completingActions.details.amount,Amount,4
+lctr.transaction.completingActions.details.currencyCode,Currency type,4
+lctr.transaction.completingActions.details.dispositionCode,Details of disposition,3
+lctr.transaction.completingActions.details.dispositionOther,Details of disposition - other,3
+lctr.transaction.completingActions.details.exchangeRate,Exchange rate,1
+lctr.transaction.completingActions.details.involvementIndicator,Was there any other person or entity involved in the completing action?,2
+lctr.transaction.completingActions.details.referenceNumber,Reference number,1
+lctr.transaction.completingActions.details.referenceNumberOtherRelatedNumber,Other number related to reference number,1
+lctr.transaction.completingActions.details.valueInCanadianDollars,Value in Canadian dollars,4
+lctr.transaction.completingActions.details.virtualCurrencyTypeCode,Virtual currency type,4
+lctr.transaction.completingActions.details.virtualCurrencyTypeOther,Virtual currency type - other,3
+lctr.transaction.completingActions.involvements.details.accountNumber,Account number,2
+lctr.transaction.completingActions.involvements.details.identifyingNumber,Identifying number,2
+lctr.transaction.completingActions.involvements.details.policyNumber,Policy number,2
+lctr.transaction.completingActions.involvements.entityName.nameOfEntity,Name of entity,2
+lctr.transaction.completingActions.involvements.personName.givenName,Given name,2
+lctr.transaction.completingActions.involvements.personName.otherNameInitial,Other name/initial,2
+lctr.transaction.completingActions.involvements.personName.surname,Surname,2
+lctr.transaction.completingActions.involvements.typeCode,Subject type,2
+lctr.transaction.largeCashTransactionDetails.dateTimeOfPosting,Date/time of posting,5
+lctr.transaction.largeCashTransactionDetails.dateTimeOfTransaction,Date/time of transaction,5
+lctr.transaction.largeCashTransactionDetails.methodCode,Method of transaction,2
+lctr.transaction.largeCashTransactionDetails.methodOther,Method of transaction - other,3
+lctr.transaction.largeCashTransactionDetails.purpose,Purpose of transaction,1
+lctr.transaction.largeCashTransactionDetails.reportingEntityTransactionReference,Reporting entity transaction reference number,2
+lctr.transaction.largeCashTransactionDetails.thresholdIndicator,Threshold indicator,3
+lctr.transaction.reportingEntityLocationId,Reporting entity location number,3
+lctr.transaction.startingActions,Starting action list,1
+lctr.transaction.startingActions.conductors,Conductor list,2
+lctr.transaction.startingActions.conductors.details.clientNumber,Client number,1
+lctr.transaction.startingActions.conductors.details.emailAddress,Email address,1
+lctr.transaction.startingActions.conductors.details.onBehalfOfIndicator,Was this transaction conducted on behalf of another person or entity?,2
+lctr.transaction.startingActions.conductors.entityDetails.address.buildingNumber,House/Building number,2
+lctr.transaction.startingActions.conductors.entityDetails.address.city,City,6
+lctr.transaction.startingActions.conductors.entityDetails.address.countryCode,Country,6
+lctr.transaction.startingActions.conductors.entityDetails.address.district,District,2
+lctr.transaction.startingActions.conductors.entityDetails.address.postalZipCode,Postal or zip code,4
+lctr.transaction.startingActions.conductors.entityDetails.address.provinceStateCode,Province or state code,6
+lctr.transaction.startingActions.conductors.entityDetails.address.provinceStateName,Province or state name,3
+lctr.transaction.startingActions.conductors.entityDetails.address.streetAddress,Street address,6
+lctr.transaction.startingActions.conductors.entityDetails.address.subProvinceSubLocality,Sub-province and/or sub-locality,2
+lctr.transaction.startingActions.conductors.entityDetails.address.unitNumber,Apt/Room/Suite/Unit number,2
+lctr.transaction.startingActions.conductors.entityDetails.address.unstructured,Unstructured address details,5
+lctr.transaction.startingActions.conductors.entityDetails.authorizedPersons,Authorized person list,2
+lctr.transaction.startingActions.conductors.entityDetails.authorizedPersons.givenName,Given name,5
+lctr.transaction.startingActions.conductors.entityDetails.authorizedPersons.otherNameInitial,Other name/initial,1
+lctr.transaction.startingActions.conductors.entityDetails.authorizedPersons.surname,Surname,5
+lctr.transaction.startingActions.conductors.entityDetails.extensionNumber,Extension,2
+lctr.transaction.startingActions.conductors.entityDetails.identifications,Identification list,1
+lctr.transaction.startingActions.conductors.entityDetails.identifications.identifierTypeCode,Identification type,5
+lctr.transaction.startingActions.conductors.entityDetails.identifications.identifierTypeOther,Identification type - other,3
+lctr.transaction.startingActions.conductors.entityDetails.identifications.jurisdictionOfIssueCountryCode,Jurisdiction of issue (country),6
+lctr.transaction.startingActions.conductors.entityDetails.identifications.jurisdictionOfIssueProvinceStateCode,Jurisdiction of issue (province or state) code,3
+lctr.transaction.startingActions.conductors.entityDetails.identifications.jurisdictionOfIssueProvinceStateName,Jurisdiction of issue (province or state) name,2
+lctr.transaction.startingActions.conductors.entityDetails.identifications.number,Number associated with identification type,4
+lctr.transaction.startingActions.conductors.entityDetails.nameOfEntity,Name of entity,5
+lctr.transaction.startingActions.conductors.entityDetails.natureOfPrincipalBusiness,Nature of entity's principal business,5
+lctr.transaction.startingActions.conductors.entityDetails.registrationIncorporationIndicator,Is the entity registered or incorporated?,2
+lctr.transaction.startingActions.conductors.entityDetails.registrationsIncorporations.jurisdictionOfIssueCountryCode,Jurisdiction of issue (country),3
+lctr.transaction.startingActions.conductors.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateCode,Jurisdiction of issue (province or state) code,4
+lctr.transaction.startingActions.conductors.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateName,Jurisdiction of issue (province or state) name,3
+lctr.transaction.startingActions.conductors.entityDetails.registrationsIncorporations.number,Registration or incorporation number,4
+lctr.transaction.startingActions.conductors.entityDetails.registrationsIncorporations.typeCode,Incorporated or registered?,2
+lctr.transaction.startingActions.conductors.entityDetails.telephoneNumber,Telephone number,1
+lctr.transaction.startingActions.conductors.entityDetails.typeCode,Subject type,1
+lctr.transaction.startingActions.conductors.entityName.nameOfEntity,Name of entity (business account),4
+lctr.transaction.startingActions.conductors.entityName.typeCode,Subject type (business account),1
+lctr.transaction.startingActions.conductors.onBehalfOfs.details.clientNumber,Client number,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.details.emailAddress,Email address,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.details.relationshipOfConductorCode,Relationship type,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.details.relationshipOfConductorOther,Relationship type - other,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.buildingNumber,House/Building number,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.city,City,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.countryCode,Country,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.district,District,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.postalZipCode,Postal or zip code,4
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.provinceStateCode,Province or state code,5
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.provinceStateName,Province or state name,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.streetAddress,Street address,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.subProvinceSubLocality,Sub-province and/or sub-locality,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.unitNumber,Apt/Room/Suite/Unit number,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.address.unstructured,Unstructured address details,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.authorizedPersons,Authorized person list,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.authorizedPersons.givenName,Given name,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.authorizedPersons.otherNameInitial,Other name/initial,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.authorizedPersons.surname,Surname,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.extensionNumber,Extension,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.identifierTypeCode,Identification type,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.identifierTypeOther,Identification type - other,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.jurisdictionOfIssueCountryCode,Jurisdiction of issue (country),2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.jurisdictionOfIssueProvinceStateCode,Jurisdiction of issue (province or state) code,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.jurisdictionOfIssueProvinceStateName,Jurisdiction of issue (province or state) name,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.identifications.number,Number associated with identification type,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.nameOfEntity,Name of entity,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.natureOfPrincipalBusiness,Nature of entity's principal business,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationIncorporationIndicator,Is the entity registered or incorporated?,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.jurisdictionOfIssueCountryCode,Jurisdiction of issue (country),3
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateCode,Jurisdiction of issue (province or state) code,4
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.jurisdictionOfIssueProvinceStateName,Jurisdiction of issue (province or state) name,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.number,Registration or incorporation number,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.registrationsIncorporations.typeCode,Incorporated or registered?,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.entityDetails.telephoneNumber,Telephone number,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.buildingNumber,House/Building number,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.city,City,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.countryCode,Country,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.district,District,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.postalZipCode,Postal or zip code,4
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.provinceStateCode,Province or state code,5
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.provinceStateName,Province or state name,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.streetAddress,Street address,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.subProvinceSubLocality,Sub-province and/or sub-locality,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.unitNumber,Apt/Room/Suite/Unit number,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.address.unstructured,Unstructured address details,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.alias,Alias,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.countryOfResidenceCode,Country of residence,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.dateOfBirth,Date of birth,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.extensionNumber,Extension,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.givenName,Given name,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.identifierTypeCode,Identification type,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.identifierTypeOther,Identification type - other,3
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.jurisdictionOfIssueCountryCode,Jurisdiction of issue (country),3
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.jurisdictionOfIssueProvinceStateCode,Jurisdiction of issue (province or state) code,4
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.jurisdictionOfIssueProvinceStateName,Jurisdiction of issue (province or state) name,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.identifications.number,Number associated with identification type,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.nameOfEmployer,Name of employer,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.occupation,Occupation,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.otherNameInitial,Other name/initial,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.surname,Surname,2
+lctr.transaction.startingActions.conductors.onBehalfOfs.personDetails.telephoneNumber,Telephone number,1
+lctr.transaction.startingActions.conductors.onBehalfOfs.typeCode,Subject type,2
+lctr.transaction.startingActions.conductors.personDetails.address.buildingNumber,House/Building number,2
+lctr.transaction.startingActions.conductors.personDetails.address.city,City,6
+lctr.transaction.startingActions.conductors.personDetails.address.countryCode,Country,6
+lctr.transaction.startingActions.conductors.personDetails.address.district,District,2
+lctr.transaction.startingActions.conductors.personDetails.address.postalZipCode,Postal or zip code,4
+lctr.transaction.startingActions.conductors.personDetails.address.provinceStateCode,Province or state code,6
+lctr.transaction.startingActions.conductors.personDetails.address.provinceStateName,Province or state name,3
+lctr.transaction.startingActions.conductors.personDetails.address.streetAddress,Street address,6
+lctr.transaction.startingActions.conductors.personDetails.address.subProvinceSubLocality,Sub-province and/or sub-locality,2
+lctr.transaction.startingActions.conductors.personDetails.address.unitNumber,Apt/Room/Suite/Unit number,2
+lctr.transaction.startingActions.conductors.personDetails.address.unstructured,Unstructured address details,6
+lctr.transaction.startingActions.conductors.personDetails.alias,Alias,1
+lctr.transaction.startingActions.conductors.personDetails.countryOfResidenceCode,Country of residence,2
+lctr.transaction.startingActions.conductors.personDetails.dateOfBirth,Date of birth,7
+lctr.transaction.startingActions.conductors.personDetails.extensionNumber,Extension,2
+lctr.transaction.startingActions.conductors.personDetails.givenName,Given name,5
+lctr.transaction.startingActions.conductors.personDetails.identifications,Identification list,1
+lctr.transaction.startingActions.conductors.personDetails.identifications.identifierTypeCode,Identification type,5
+lctr.transaction.startingActions.conductors.personDetails.identifications.identifierTypeOther,Identification type - other,3
+lctr.transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueCountryCode,Jurisdiction of issue (country),7
+lctr.transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueProvinceStateCode,Jurisdiction of issue (province or state) code,4
+lctr.transaction.startingActions.conductors.personDetails.identifications.jurisdictionOfIssueProvinceStateName,Jurisdiction of issue (province or state) name,2
+lctr.transaction.startingActions.conductors.personDetails.identifications.number,Number associated with identification type,6
+lctr.transaction.startingActions.conductors.personDetails.nameOfEmployer,Name of employer,1
+lctr.transaction.startingActions.conductors.personDetails.occupation,Occupation,4
+lctr.transaction.startingActions.conductors.personDetails.otherNameInitial,Other name/initial,1
+lctr.transaction.startingActions.conductors.personDetails.surname,Surname,5
+lctr.transaction.startingActions.conductors.personDetails.telephoneNumber,Telephone number,1
+lctr.transaction.startingActions.conductors.personDetails.typeCode,Subject type,1
+lctr.transaction.startingActions.conductors.personName.givenName,Given name (business account),4
+lctr.transaction.startingActions.conductors.personName.otherNameInitial,Other name/initial (business account),3
+lctr.transaction.startingActions.conductors.personName.surname,Surname (business account),4
+lctr.transaction.startingActions.conductors.personName.typeCode,Subject type (business account),1
+lctr.transaction.startingActions.conductors.typeCode,Subject type,2
+lctr.transaction.startingActions.details.amount,Amount,2
+lctr.transaction.startingActions.details.currencyCode,Currency type,3
+lctr.transaction.startingActions.details.depositToBusinessAccountIndicator,Does this action involve a deposit to a business account?,3
+lctr.transaction.startingActions.details.howCashObtained,How cash the was obtained?,1
+lctr.transaction.startingActions.details.sourceOfCashIndicator,Was information about the sources of cash obtained?,2
+lctr.transaction.startingActions.sourcesOfCash.details.accountNumber,Account number,2
+lctr.transaction.startingActions.sourcesOfCash.details.identifyingNumber,Identifying number,2
+lctr.transaction.startingActions.sourcesOfCash.details.policyNumber,Policy number,2
+lctr.transaction.startingActions.sourcesOfCash.entityName.nameOfEntity,Name of entity,2
+lctr.transaction.startingActions.sourcesOfCash.personName.givenName,Given name,2
+lctr.transaction.startingActions.sourcesOfCash.personName.otherNameInitial,Other name/initial,2
+lctr.transaction.startingActions.sourcesOfCash.personName.surname,Surname,2
+lctr.transaction.startingActions.sourcesOfCash.typeCode,Subject type,2
+lctr.transactions,Transaction list,3
