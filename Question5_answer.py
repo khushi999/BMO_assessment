@@ -63,7 +63,7 @@ CREATE TABLE IF NOT EXISTS Transactions(
 )
 """)
 
-# 🔁 Clear existing data to avoid primary key errors
+# Clear existing data to avoid primary key errors
 cursor.execute("DELETE FROM Transactions")
 cursor.execute("DELETE FROM Customers")
 

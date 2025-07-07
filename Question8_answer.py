@@ -66,7 +66,7 @@ def validate_lctr_json(json_path, rules_csv_path="lctr-doie-api-eng (1).csv"):
     error_df = pd.DataFrame(errors)
     output_file = f"validation_errors_{json_path.split('.')[0]}_Q8.csv"
     error_df.to_csv(output_file, index=False)
-    print(f"✅ Validation complete. Errors saved to: {output_file}")
+    print(f"Validation complete. Errors saved to: {output_file}")
 
 # ---- MAIN ----
 if __name__ == "__main__":
